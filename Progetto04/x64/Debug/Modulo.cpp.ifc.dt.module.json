@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\cpp\\cpp20\\progetto04\\modulo.cpp",
+        "ProvidedModule": "",
+        "ImportedModules": [
+            "Module"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

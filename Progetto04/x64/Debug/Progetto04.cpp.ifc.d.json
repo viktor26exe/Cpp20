@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\cpp\\cpp20\\progetto04\\progetto04.cpp",
+        "ProvidedModule": "",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "Module",
+                "BMI": "D:\\Cpp\\cpp20\\Progetto04\\x64\\Debug\\Module.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\iostream",
+                "BMI": "D:\\Cpp\\cpp20\\Progetto04\\x64\\Debug\\iostream_BRCOWWCJDGX0917G.ifc"
+            }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+﻿  Analisi delle origini per cercare le dipendenze del modulo...
+  Module.ixx
+  Progetto04.cpp
+  In fase di compilazione...
+  Module.ixx
+D:\Cpp\cpp20\Progetto04\Module.ixx(3,21): warning C5201: una dichiarazione di modulo può essere presente solo all'inizio di un'unità di conversione a meno che non venga usato un frammento di modulo globale
+  Progetto04.cpp
+  Progetto04.vcxproj -> D:\Cpp\cpp20\Progetto04\x64\Debug\Progetto04.exe

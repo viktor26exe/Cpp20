@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\cpp\\cpp20\\progetto04\\progetto04.cpp",
+        "ProvidedModule": "",
+        "ImportedModules": [
+            "Module"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\iostream"
+        ]
+    }
+}

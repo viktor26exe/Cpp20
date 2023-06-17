@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Progetto04.cpp.obj",
+            "outputs": [
+                "D:\\Cpp\\cpp20\\Progetto04\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\"
+            ],
+            "requires": [
+                {
+                    "logical-name": "Module"
+                },
+                {
+                    "logical-name": "iostream",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\iostream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
+}
